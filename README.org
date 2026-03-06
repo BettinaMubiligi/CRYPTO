@@ -9,7 +9,9 @@
 
 
 ############################################################################################################################################
-Note : 2 Fichiers ZIP avec chaque projet ordonné et chaques fichiers + tests correspondant.
+
+
+Note : 2 Fichiers ZIP (DOSSIER Projets_Crypto_Python.zip et tme1-chiffrement_mono-main) avec chaque projet ordonné et chaques fichiers + tests correspondant.
 
 ################################################################################################################################################
 
