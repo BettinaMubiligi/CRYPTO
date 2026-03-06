@@ -6,6 +6,16 @@
 #+exclude_tags: noexport
 #+creator: Emacs 26.3 (Org mode 9.4)
 
+
+
+############################################################################################################################################
+Note : 2 Fichiers ZIP avec chaque projet ordonné et chaques fichiers + tests correspondant.
+
+################################################################################################################################################
+
+
+
+
 * Utilisation de GitLab
 
   /Cette section et les suivantes concernant GitLab sont largement inspirées des documents d’Antoine Miné pour le cours 3I002./
